@@ -1,0 +1,14 @@
+i:\bluekiller\documents\visual studio 2017\Projects\BluehackPrivate\BluehackPrivate\bin\Debug\BluehackPrivate.exe.config
+i:\bluekiller\documents\visual studio 2017\Projects\BluehackPrivate\BluehackPrivate\bin\Debug\BluehackPrivate.exe
+i:\bluekiller\documents\visual studio 2017\Projects\BluehackPrivate\BluehackPrivate\bin\Debug\BluehackPrivate.pdb
+i:\bluekiller\documents\visual studio 2017\Projects\BluehackPrivate\BluehackPrivate\obj\Debug\BluehackPrivate.exe
+i:\bluekiller\documents\visual studio 2017\Projects\BluehackPrivate\BluehackPrivate\obj\Debug\BluehackPrivate.pdb
+i:\bluekiller\documents\visual studio 2017\Projects\BluehackPrivate\BluehackPrivate\obj\Debug\BluehackPrivate.csprojResolveAssemblyReference.cache
+i:\bluekiller\documents\visual studio 2017\Projects\BluehackPrivate\BluehackPrivate\obj\Debug\BluehackPrivate.csproj.BluehackPrivate.exe.config
+i:\bluekiller\documents\visual studio 2017\Projects\BluehackPrivate\BluehackPrivate\obj\Debug\BluehackPrivate.BResource.resources
+i:\bluekiller\documents\visual studio 2017\Projects\BluehackPrivate\BluehackPrivate\obj\Debug\BluehackPrivate.csproj.GenerateResource.Cache
+I:\Bluekiller\Documents\Visual Studio 2017\Projects\BluehackPrivate\BluehackPrivate\obj\Debug\BluehackPrivate.BDirectX.resources
+I:\Bluekiller\Documents\Visual Studio 2017\Projects\BluehackPrivate\BluehackPrivate\bin\Debug\SharpDX.Direct2D1.dll
+I:\Bluekiller\Documents\Visual Studio 2017\Projects\BluehackPrivate\BluehackPrivate\bin\Debug\SharpDX.dll
+I:\Bluekiller\Documents\Visual Studio 2017\Projects\BluehackPrivate\BluehackPrivate\bin\Debug\SharpDX.DXGI.dll
+I:\Bluekiller\Documents\Visual Studio 2017\Projects\BluehackPrivate\BluehackPrivate\bin\Debug\SharpDX.Mathematics.dll

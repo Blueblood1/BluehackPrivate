@@ -1,0 +1,15 @@
+I:\Save Me\Hacking\Projects\BluehackPrivate\BluehackPrivate\bin\Debug\SubService.exe.config
+I:\Save Me\Hacking\Projects\BluehackPrivate\BluehackPrivate\bin\Debug\SubService.exe
+I:\Save Me\Hacking\Projects\BluehackPrivate\BluehackPrivate\bin\Debug\SubService.pdb
+I:\Save Me\Hacking\Projects\BluehackPrivate\BluehackPrivate\bin\Debug\SharpDX.Direct2D1.dll
+I:\Save Me\Hacking\Projects\BluehackPrivate\BluehackPrivate\bin\Debug\SharpDX.dll
+I:\Save Me\Hacking\Projects\BluehackPrivate\BluehackPrivate\bin\Debug\SharpDX.DXGI.dll
+I:\Save Me\Hacking\Projects\BluehackPrivate\BluehackPrivate\bin\Debug\SharpDX.Mathematics.dll
+I:\Save Me\Hacking\Projects\BluehackPrivate\BluehackPrivate\obj\Debug\SubService.csprojResolveAssemblyReference.cache
+I:\Save Me\Hacking\Projects\BluehackPrivate\BluehackPrivate\obj\Debug\SubService.exe.config
+I:\Save Me\Hacking\Projects\BluehackPrivate\BluehackPrivate\obj\Debug\SubService.BDirectX.resources
+I:\Save Me\Hacking\Projects\BluehackPrivate\BluehackPrivate\obj\Debug\SubService.BResource.resources
+I:\Save Me\Hacking\Projects\BluehackPrivate\BluehackPrivate\obj\Debug\SubService.csproj.GenerateResource.Cache
+I:\Save Me\Hacking\Projects\BluehackPrivate\BluehackPrivate\obj\Debug\SubService.csproj.CoreCompileInputs.cache
+I:\Save Me\Hacking\Projects\BluehackPrivate\BluehackPrivate\obj\Debug\SubService.exe
+I:\Save Me\Hacking\Projects\BluehackPrivate\BluehackPrivate\obj\Debug\SubService.pdb

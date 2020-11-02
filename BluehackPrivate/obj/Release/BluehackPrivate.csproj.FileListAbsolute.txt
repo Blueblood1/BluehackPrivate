@@ -1,0 +1,13 @@
+I:\Bluekiller\Documents\Visual Studio 2017\Projects\BluehackPrivate\BluehackPrivate\bin\Release\SubService.exe.config
+I:\Bluekiller\Documents\Visual Studio 2017\Projects\BluehackPrivate\BluehackPrivate\bin\Release\SubService.exe
+I:\Bluekiller\Documents\Visual Studio 2017\Projects\BluehackPrivate\BluehackPrivate\bin\Release\SubService.pdb
+I:\Bluekiller\Documents\Visual Studio 2017\Projects\BluehackPrivate\BluehackPrivate\bin\Release\SharpDX.Direct2D1.dll
+I:\Bluekiller\Documents\Visual Studio 2017\Projects\BluehackPrivate\BluehackPrivate\bin\Release\SharpDX.dll
+I:\Bluekiller\Documents\Visual Studio 2017\Projects\BluehackPrivate\BluehackPrivate\bin\Release\SharpDX.DXGI.dll
+I:\Bluekiller\Documents\Visual Studio 2017\Projects\BluehackPrivate\BluehackPrivate\bin\Release\SharpDX.Mathematics.dll
+I:\Bluekiller\Documents\Visual Studio 2017\Projects\BluehackPrivate\BluehackPrivate\obj\Release\BluehackPrivate.csproj.SubService.exe.config
+I:\Bluekiller\Documents\Visual Studio 2017\Projects\BluehackPrivate\BluehackPrivate\obj\Release\SubService.BDirectX.resources
+I:\Bluekiller\Documents\Visual Studio 2017\Projects\BluehackPrivate\BluehackPrivate\obj\Release\SubService.BResource.resources
+I:\Bluekiller\Documents\Visual Studio 2017\Projects\BluehackPrivate\BluehackPrivate\obj\Release\BluehackPrivate.csproj.GenerateResource.Cache
+I:\Bluekiller\Documents\Visual Studio 2017\Projects\BluehackPrivate\BluehackPrivate\obj\Release\SubService.exe
+I:\Bluekiller\Documents\Visual Studio 2017\Projects\BluehackPrivate\BluehackPrivate\obj\Release\SubService.pdb
